@@ -7,5 +7,5 @@ Responsável por abrir a imagem e chamar as funções dos demais arquivos de mod
 # Image_Labeler.java
 Possui funções que permitem o sistema identificar e listar todos os objetos presentes na imagem.
 
-# LabelProcessor.jaba
+# LabelProcessor.java
 Possui funções que permitem a extração de atributos dos objetos listados, assim como plotar gráficos para análise desses atributos.
